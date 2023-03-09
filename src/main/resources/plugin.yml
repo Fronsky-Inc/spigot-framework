@@ -1,0 +1,7 @@
+name: '${name}'
+version: '${version}'
+main: '${main}'
+api-version: 1.13
+authors: [Fronsky]
+website: fronsky.com
+description: This is the Fronsky Spigot Framework.
